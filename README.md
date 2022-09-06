@@ -1,4 +1,4 @@
-[![Linkedin: markjaylunas](https://img.shields.io/badge/-MarkJay%20Lunas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markjaylunas/)](https://www.linkedin.com/in/markjaylunas/)
+###[![Linkedin: markjaylunas](https://img.shields.io/badge/-MarkJay%20Lunas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markjaylunas/)](https://www.linkedin.com/in/markjaylunas/)
 
 ## 👋 Hi, I’m Makje
 ## 👀 I’m interested in Web Development
