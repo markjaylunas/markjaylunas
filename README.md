@@ -10,4 +10,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markjaylunas&layout=compact&theme=radical)
 
 ### ⚙️ GitHub Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=markjaylunas&show_icons=true&theme=radical)
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markjaylunas&show_icons=true&theme=radical)
+
